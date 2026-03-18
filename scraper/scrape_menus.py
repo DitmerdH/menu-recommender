@@ -514,3 +514,9 @@ def scrape_all_menus():
 if __name__ == "__main__":
     df = scrape_all_menus()
     print(df.head())
+
+df = scrape_all_menus()
+
+df.to_csv("data/menus_raw.csv", index=False, encoding="utf-8-sig")
+
+print("Saved raw dataset")

@@ -1,0 +1,234 @@
+restaurant,city,menu_type,category,dish,price,description,tags
+Jack and Jacky's,Leeuwarden,Lunch,Bowls,AÇAI BOWL,13.2,"Açai, banaan, kokosdrink, granola, pindaswirl, gojibessen, kokos, hennepzaad & blauwe bessen",
+Jack and Jacky's,Leeuwarden,Lunch,Bowls,CHEESECAKE OATS,10.8,"Overnight oats, Griekse yoghurt, aardbeienpuree, blauwe bessen, granola, aardbeien & frambozen",vegetarian
+Jack and Jacky's,Leeuwarden,Lunch,Bowls,MANGO MADNESS BOWL,11.6,"Mango, banaan, kokosdrink, aardbei, granola, hennepzaad, yoghurt swirl & kokos",vegetarian
+Jack and Jacky's,Leeuwarden,Lunch,Bowls,BREAKFAST BOWL,10.1,"Griekse yoghurt, granola, banaan, chiazaad, blauwe bessen, frambozen, gojibessen & agavesiroop",vegetarian
+Jack and Jacky's,Leeuwarden,Lunch,Pancakes,BERRY PANCAKES,14.6,"Bananen pannenkoekjes, Griekse yoghurtroom, banaan, rood fruit puree, blauwe bessen, frambozen, agavesiroop & aardbeien",vegetarian
+Jack and Jacky's,Leeuwarden,Lunch,Pancakes,LEMON POPPY PANCAKES,14.3,"Bananen pannenkoekjes, opgeklopte mascarpone met mango en citroen, mango puree, blauwmaanzaad, passievruchtsaus & kokos chips",vegetarian
+Jack and Jacky's,Leeuwarden,Lunch,Pancakes,KIDS PANCAKES,7.3,"Twee kleine bananen pannenkoekjes, blauwe bessen, banaan, aardbei & agavesiroop",vegetarian
+Jack and Jacky's,Leeuwarden,Lunch,Sandwiches,TUNA,9.6,"Gegrild volkorenbrood, tonijnsalade, avocado, tomaat & huisgemaakte groene pesto",fish
+Jack and Jacky's,Leeuwarden,Lunch,Sandwiches,CHICKEN,9.9,"Gegrild volkorenbrood, tomaat, gegrilde kip, avocado & huisgemaakte groene pesto",meat
+Jack and Jacky's,Leeuwarden,Lunch,Sandwiches,KIMCHI,9.1,"Gegrild volkorenbrood, kimchi, smashed avocado, miso & komkommer",spicy
+Jack and Jacky's,Leeuwarden,Lunch,Sandwiches,SPICY AVOCADO,9.6,"Gegrild volkorenbrood,smashed avocado, feta & crispy chili olie","spicy, vegetarian"
+Jack and Jacky's,Leeuwarden,Lunch,Sandwiches,SALMON,11.9,"Gegrild volkorenbrood, gerookte zalm, furikake, avocado, hoisin zuivelspread, wasabidressing & komkommer","fish, spicy"
+Jack and Jacky's,Leeuwarden,Lunch,Sandwiches,SERRANOHAM,11.6,"Gegrild volkorenbrood, serranoham, mozzarella, tomaat, sla, balsamico & groene pesto",meat
+Jack and Jacky's,Leeuwarden,Lunch,Sandwiches,CEASER,10.6,"Gegrild volkorenbrood, gemarineerde kip, romeinse sla, ceaserdressing, gekookt ei & parmezaanse kaas",meat
+Jack and Jacky's,Leeuwarden,Lunch,Sandwiches,BURRATA,10.9,"Gegrild volkorenbrood, burrata, pesto, zoete cherrytomaat, basilicum & pistachecrumble",vegetarian
+Jack and Jacky's,Leeuwarden,Lunch,Sandwiches,CARPACCIO,11.3,"Gegrild volkorenbrood, pesto, rundercarpaccio, tomaat, sla, Parmezaanse kaas & truffelmayo",meat
+Jack and Jacky's,Leeuwarden,Lunch,Salads,CHICKEN,14.9,"Gegrilde kip, avocado, crispy tuinbonen, komkommer, tomaat, geroosterde pittenmix, gekookt ei & huisgemaakte groene pesto",meat
+Jack and Jacky's,Leeuwarden,Lunch,Salads,SALMON,16.9,"Gerookte zalm, furikake, avocado, hoisin zuivespread, radijs, wasabi dressing, komkommer & cashewnoten","fish, spicy"
+Jack and Jacky's,Leeuwarden,Lunch,Salads,BURRATA,16.9,"Burrata, komkommer, vijgen, gerookte amandelen, tomaat, balsamico, huisgemaakte groene pesto & pistachecrumble",vegetarian
+Jack and Jacky's,Leeuwarden,Lunch,Salads,CARPACCIO,15.3,"Rundercarpaccio, pesto, tomaat, komkommer, Parmezaanse kaas, crispy tuinbonen, zongedroogde tomaat & truffelmayo",meat
+Jack and Jacky's,Leeuwarden,Lunch,Salads,EXTRA'S,2.0,Glutenvrij brood,
+Jack and Jacky's,Leeuwarden,Lunch,Salads,KOFFIE,3.3,,
+Jack and Jacky's,Leeuwarden,Lunch,Salads,AMERICANO,3.4,Iced / hot,
+Jack and Jacky's,Leeuwarden,Lunch,Salads,ESPRESSO,3.3,,
+Jack and Jacky's,Leeuwarden,Lunch,Salads,DOUBLE ESPRESSO,3.8,,
+Jack and Jacky's,Leeuwarden,Lunch,Salads,ESPRESSO MACCHIATO,3.5,,
+Jack and Jacky's,Leeuwarden,Lunch,Salads,CAPPUCCINO,3.8,,
+Jack and Jacky's,Leeuwarden,Lunch,Salads,CORTADO,3.5,,
+Jack and Jacky's,Leeuwarden,Lunch,Salads,FLAT WHITE,4.3,,
+Jack and Jacky's,Leeuwarden,Lunch,Salads,LATTE MACCHIATO,4.1,Iced / hot,
+Jack and Jacky's,Leeuwarden,Lunch,Salads,MOCHA COFFEE,4.5,,
+Jack and Jacky's,Leeuwarden,Lunch,Salads,BABYCCINO,2.6,,
+Jack and Jacky's,Leeuwarden,Lunch,Salads,COFFEE SHAKE,6.4,"Espresso, vanille-sojadrink, ijsklontjes & banaan",
+Jack and Jacky's,Leeuwarden,Lunch,Salads,FRESH MINT,3.9,,
+Jack and Jacky's,Leeuwarden,Lunch,Salads,FRESH GINGER,3.9,,
+Jack and Jacky's,Leeuwarden,Lunch,Salads,CHAMOMILE LAVENDER,3.6,,meat
+Jack and Jacky's,Leeuwarden,Lunch,Salads,ROOIBOS ORANGE,3.6,,
+Jack and Jacky's,Leeuwarden,Lunch,Salads,PURE GREEN,3.6,,
+Jack and Jacky's,Leeuwarden,Lunch,Salads,SPICY LEMON,3.6,,spicy
+Jack and Jacky's,Leeuwarden,Lunch,Salads,CHAI LATTE,4.9,Iced / hot,
+Jack and Jacky's,Leeuwarden,Lunch,Salads,DIRTY CHAI LATTE,5.4,Iced / hot,
+Jack and Jacky's,Leeuwarden,Lunch,Bakery,BANANABREAD,4.8,Van de grill met verse banaan,
+Jack and Jacky's,Leeuwarden,Lunch,Bakery,CARROTCAKE,5.4,Met vanille frosting,
+Jack and Jacky's,Leeuwarden,Lunch,Bakery,CHOCOLATE CAKE,5.4,Met drie soorten chocolade,
+Jack and Jacky's,Leeuwarden,Lunch,Kids Food,KIDS PANCAKES,7.3,"Twee kleine bananen pannenkoekjes, blauwe bessen, banaan, aardbei & agavesiroop",vegetarian
+Jack and Jacky's,Leeuwarden,Lunch,Kids Food,MINI YOGHURT BOWL,5.9,"Griekse yoghurt, granola, banaan, chiazaad, gojibessen, frambozen, blauwe bessen & agavesiroop",vegetarian
+Jack and Jacky's,Leeuwarden,Lunch,Kids Food,BOWL OF FRESH FRUIT,4.5,Gevarieerd vers gesneden fruit,
+Jack and Jacky's,Leeuwarden,Lunch,Kids Food,BANANABREAD,4.8,Van de grill met verse banaan,
+Roast,Leeuwarden,Lunch,Soup,Currysoep,8.5,met kip en bosui,meat
+Roast,Leeuwarden,Lunch,Soup,Mosterdsoep,8.5,met spek en bosui - kan vegetarisch,meat
+Roast,Leeuwarden,Lunch,Egg Dishes,Gerookte zalm,19.5,op getoast briochebrood met gepocheerde eieren en Hollandaise,fish
+Roast,Leeuwarden,Lunch,Egg Dishes,Gerookte biefstuk,19.5,op getoast briochebrood met gepocheerde eieren en Hollandaise,meat
+Roast,Leeuwarden,Lunch,Egg Dishes,Oude kaas,14.0,op getoast briochebrood met gepocheerde eieren en Hollandaise,vegetarian
+Roast,Leeuwarden,Lunch,Sandwiches,Carpaccio,15.0,"van gerookte biefstuk, pesto, zongedroogde tomaat en parmezaanse kaas",meat
+Roast,Leeuwarden,Lunch,Sandwiches,Smashed Avocado,15.0,"met tomaat, chiliflakes, gepocheerd ei en Hollandaise","spicy, vegetarian"
+Roast,Leeuwarden,Lunch,Salads,Caesar Salade,19.5,"met krokante kip, little gem, parmezaanse kaas, krokant spek en ansjovis-mayonaise","fish, meat"
+Roast,Leeuwarden,Lunch,Salads,Geitenkaas Salade,17.5,"met appel, rode biet en balsamico",vegetarian
+Roast,Leeuwarden,Lunch,Bijgerechten,Friet,5.0,,
+Roast,Leeuwarden,Lunch,Bijgerechten,Truffelfriet,8.5,met truffelmayonaise en Parmezaanse kaas,vegetarian
+Roast,Leeuwarden,Lunch,Bijgerechten,Zuurdesembol,7.0,met twee soorten boter,
+Roast,Leeuwarden,Lunch,Burgers,Runderburger,19.5,"met gekarameliseerde ui, tomaat, cheddar, katenspek en BBQ-saus - geserveerd met friet",meat
+Roast,Leeuwarden,Lunch,Burgers,Beyondburger,19.5,"met gekarameliseerde ui, cheddar, tomaat en BBQ-saus - geserveerd met friet",meat
+Roast,Leeuwarden,Lunch,Burgers,Jalapeño-Cheddar hotdog,15.5,"Op brioche bun met relish van Amsterdamse ui, ketchup-crunch, mosterd-mayonaise, bosui en krokante ui","spicy, vegetarian"
+Roast,Leeuwarden,Lunch,Sandwiches,Smashed Avocado,15.5,"op getoast desembrood met smashed avocado, tomaat, mozzarella en dressing van citroen en munt",vegetarian
+Roast,Leeuwarden,Lunch,Sandwiches,Caesar Sandwich,15.5,"met krokante kip, little gem, parmezaanse kaas, krokant spek en ansjovis-mayonaise","fish, meat"
+Roast,Leeuwarden,Lunch,Sandwiches,Geitenkaas,14.0,"met gesuikerde amandelen, rode biet en balsamico",vegetarian
+Roast,Leeuwarden,Lunch,Sandwiches,Gerookte zalm,15.5,"met wasabi-mayonaise, avocado, gekookt ei, wakame en nori","fish, spicy"
+Roast,Leeuwarden,Lunch,Lunch Specials,Lunchplank,22.5,"(Vanaf 2 personen) soepje en divers belegde broodjes, warm en koud",
+Roast,Leeuwarden,Dinner,Starters,Oester,5.0,naturel,fish
+Roast,Leeuwarden,Dinner,Starters,Oester,5.5,met frambozen azijn en sjalot / Mango-sour en piment d'espelette,fish
+Roast,Leeuwarden,Dinner,Starters,Iberico,7.5,,
+Roast,Leeuwarden,Dinner,Starters,Zuurdesembol,7.0,met twee soorten boter,
+Roast,Leeuwarden,Dinner,Starters,Krokante kip,5.0,"Gojuchan-mayo , little gem, zoet-zure rode kool",meat
+Roast,Leeuwarden,Dinner,Starters,Taco steak tartaar,5.5,"Miso-mayo, krokante ui en rode peper","meat, spicy"
+Roast,Leeuwarden,Dinner,Starters,Taco gerookte zalm,5.5,"wakame, furikake-mayo, bosui en krokante ui",fish
+Roast,Leeuwarden,Dinner,Starters,Taco caprese,5.5,"tomaat, mozzarella en basilicumcrème - vegetarisch",vegetarian
+Roast,Leeuwarden,Dinner,Starters,Taco trio,15.0,Alle drie de taco's. Wel zo lekker!,
+Roast,Leeuwarden,Dinner,Starters,Steak tartaar,15.0,miso-mayo en krokante aardappel,meat
+Roast,Leeuwarden,Dinner,Starters,Shortrib,15.0,"aardappel kaantjes, zwarte knoflook crème en truffel jus",meat
+Roast,Leeuwarden,Dinner,Starters,Zalm,15.0,cracker van furikake en crème van wasabi en dille,"fish, spicy"
+Roast,Leeuwarden,Dinner,Starters,Gepekelde makreel,15.0,rode biet en Granny Smith appel,fish
+Roast,Leeuwarden,Dinner,Starters,Knolselderij,12.0,"jalapeño crème, augurk en manchego - vegetarisch","spicy, vegetarian"
+Roast,Leeuwarden,Dinner,Starters,Little Gem,9.0,peterselie crème en uien crunch - vegetarisch,vegetarian
+Roast,Leeuwarden,Dinner,Main,Lendebiefstuk,18.0,uiencrème en oosterse lak,meat
+Roast,Leeuwarden,Dinner,Main,Boneless ribs,15.0,aardappelsalade en gojuchang-mayo,meat
+Roast,Leeuwarden,Dinner,Main,Kipspies van de grill,15.0,bosui en teriyaki crunch,meat
+Roast,Leeuwarden,Dinner,Main,Kabeljauw,15.0,paddenstoelensaus en pastinaak,fish
+Roast,Leeuwarden,Dinner,Main,Schelvis,15.0,"knolselderij remoulade, pommes Pont Neuf en Hollandaise saus",fish
+Roast,Leeuwarden,Dinner,Main,Bloemkool,15.0,"amandel, curry crème en saus van kimchi - vegetarisch","spicy, vegetarian"
+Roast,Leeuwarden,Dinner,Main,Korkante aardappel,15.0,"oude Remeker, oesterzwam en paddestoelen-mayo - vegetarisch",fish
+Roast,Leeuwarden,Dinner,Main,Gegrilde aubergine,14.0,met miso - vegetarisch,vegetarian
+Roast,Leeuwarden,Dinner,Sides,Friet,5.0,mayonaise,
+Roast,Leeuwarden,Dinner,Sides,Truffelfriet,8.5,met Parmezaanse kaas,vegetarian
+Roast,Leeuwarden,Dinner,Sides,Ceaser salade,9.0,"krokante kip, Parmezaanse kaas, spek en ansjovis-mayo","fish, meat"
+Roast,Leeuwarden,Dinner,Sides,Gepofte aardappel,6.0,"kaast crème, spek en bieslook",meat
+Roast,Leeuwarden,Dinner,Dessert,Kaasplank,17.0,kazen van Kaasfort Amsterdam,vegetarian
+Roast,Leeuwarden,Dinner,Dessert,Friandises,6.5,"huisgemaakte lekkernijen, lekker met koffie!",
+Roast,Leeuwarden,Dinner,Dessert,Suikerbrood parfait,12.0,in koffie gegaarde peer en gezouten karamel,
+Roast,Leeuwarden,Dinner,Dessert,Chocolademousse,12.0,gemarineerde sinaasappel en vanille ijs,
+Roast,Leeuwarden,Dinner,Dessert,Lemoncurd,12.0,"citroenijs, crumble en meringue",
+Baylings,Leeuwarden,Lunch,Lunch,Broodplank,7.25,met kruidenboter en aioli,
+Baylings,Leeuwarden,Lunch,Lunch,Baylings dips,12.25,5 soorten dips geserveerd met brood,
+Baylings,Leeuwarden,Lunch,Soup,Toscaanse tomatensoep,8.5,pesto,
+Baylings,Leeuwarden,Lunch,Soup,Thaise kippenbouillon,8.5,noodles/taugé/rode peper/koriander/kip,"meat, spicy"
+Baylings,Leeuwarden,Lunch,Soup,Mosterd soep,8.5,gerookte zalm,fish
+Baylings,Leeuwarden,Lunch,Sandwiches,Gerookte kip,11.5,parmezaanse kaas/tomaat/ei/avocado/sla/kruidenmayonaise,meat
+Baylings,Leeuwarden,Lunch,Sandwiches,Brie,11.5,walnoten/rucola/appel/honing,vegetarian
+Baylings,Leeuwarden,Lunch,Sandwiches,Runder pastrami,11.5,pickels/oude kaas/truffel mosterdmayonaise,meat
+Baylings,Leeuwarden,Lunch,Sandwiches,Pulled chicken,11.5,rode ui/peterselie/puntpaprika/sla/chili ketjapsaus,"meat, spicy"
+Baylings,Leeuwarden,Lunch,Sandwiches,Zalm,11.5,radijs/komkommer/kappertjes/bieslook/sla/crème fraîche,fish
+Baylings,Leeuwarden,Lunch,Sandwiches,Hummus,11.5,rode paprika/courgette/aubergine/frisse dressing,
+Baylings,Leeuwarden,Lunch,Sandwiches,Runder carpaccio,11.5,truffelmayonaise of pesto/zongedroogde tomaat/kaas/rucola/pijnboompitten,meat
+Baylings,Leeuwarden,Lunch,Salads,Gerookte kip,14.75,parmezaanse kaas/tomaat/ei/avocado/kruidenmayonaise,meat
+Baylings,Leeuwarden,Lunch,Salads,Caprese,14.75,buffelmozzarella/vleestomaat/basilicum/olijfolie/pesto,vegetarian
+Baylings,Leeuwarden,Lunch,Salads,Pulled chicken,14.75,rode ui/peterselie/punt paprika/chili-ketjapsaus,"meat, spicy"
+Baylings,Leeuwarden,Lunch,Salads,Runder pastrami,14.75,pickels/oude kaas/truffel mosterdmayonaise,meat
+Baylings,Leeuwarden,Lunch,Salads,Gerookte zalm:,14.75,kappertjes/komkommer/rode ui/citroen/dille/ citroen crème fraîche,fish
+Baylings,Leeuwarden,Lunch,Salads,Runder carpaccio,14.75,truffelmayonaise of pesto/zongedroogde tomaat/kaas/rucola/pijnboompitten,meat
+Baylings,Leeuwarden,Lunch,Tosti,Classic,7.75,ham/kaas/curry,meat
+Baylings,Leeuwarden,Lunch,Tosti,Caprese,8.25,buffelmozzarella/tomaat/basilicum/pesto/ketchup,vegetarian
+Baylings,Leeuwarden,Lunch,Tosti,Gerookte kip,8.25,kaas/rode ui/tomaat/pesto,meat
+Baylings,Leeuwarden,Lunch,Wraps,Gerookte zalm,9.75,komkommer/zongedroogde tomaat/kruiden/sla/crème fraîche,fish
+Baylings,Leeuwarden,Lunch,Wraps,Gerookte kip,9.75,parmezaanse kaas/tomaat/ei/avocado/sla/kruidenmayonaise,meat
+Baylings,Leeuwarden,Lunch,Wraps,Runder pastrami,9.75,pickels/oude kaas/walnoten/cherrytomaat/truffel mosterdmayonaise,meat
+Baylings,Leeuwarden,Lunch,Wraps,Pulled chicken,9.75,rode ui/peterselie/puntpaprika/sla/chili-ketjapsaus,"meat, spicy"
+Baylings,Leeuwarden,Lunch,Wraps,Runder carpaccio,9.75,truffelmayonaise of pesto/zongedroogde tomaat/kaas/rucola/pijnboompitten,meat
+Baylings,Leeuwarden,Lunch,Classics,Balyings break,16.5,keuze uit onze soep van de kaart/keuze uit onze broodjes van de kaart/broodje kroket,meat
+Baylings,Leeuwarden,Lunch,Classics,Balyings burger classic,17.75,100% gekruid rundergehakt/verse bol/rode ui/tomaat/augurk/sla/kaas/friet/huisgemaakte saus,meat
+Baylings,Leeuwarden,Lunch,Classics,Balyings burger kip,17.75,kip burger/verse bol/rode ui/tomaat/augurk/sla/kaas/friet/huisgemaakte saus,meat
+Baylings,Leeuwarden,Lunch,Classics,Balyings burger vega,17.75,vegetarische burger/verse bol/rode ui /tomaat/augurk/sla/kaas/friet/ uisgemaakte saus,meat
+Baylings,Leeuwarden,Lunch,Classics,Uitsmijter,10.75,ham of kaas/brood,meat
+Baylings,Leeuwarden,Lunch,Classics,Kroketten,12.25,Oma Bobs kalfsvlees kroketten/brood/boter/mosterd,meat
+Baylings,Leeuwarden,Lunch,Plates,Gegrilde kipfilet,19.75,mals gebakken kipfilet met een jus of aioli,meat
+Baylings,Leeuwarden,Lunch,Plates,Gegrilde biefstuk(200gr),22.95,perfect gebakken biefstuk met een huisgemaakte peperjus,"meat, spicy"
+Baylings,Leeuwarden,Dinner,Koud,Broodplank,7.25,met kruidenboter en aioli,
+Baylings,Leeuwarden,Dinner,Koud,Baylings dips,12.25,5 soorten dips geserveerd met brood,
+Baylings,Leeuwarden,Dinner,Koud,Runder carpaccio,12.75,truffelmayonaise of pesto/zongedroogde tomaat/Parmezaanse kaas/rucola/pijnboompitten,meat
+Baylings,Leeuwarden,Dinner,Koud,Turfgerookte zalm,12.75,tunnbröd/radijs/komkommer/kappertjes/bieslook/dragon citrus mayonaise,fish
+Baylings,Leeuwarden,Dinner,Koud,Runder pastrami,12.75,pickels/oude kaas/truffel mosterdmayonaise,meat
+Baylings,Leeuwarden,Dinner,Koud,Caprese,12.75,buffelmozzarella/tomaat/basilicum/olijfolie/pesto,vegetarian
+Baylings,Leeuwarden,Dinner,Koud,Salade gerookte kip,11.75,parmezaanse kaas/tomaat/ei/avocado/kruidenmayonaise,meat
+Baylings,Leeuwarden,Dinner,Koud,Salade pulled chicken,11.75,rode ui/peterselie/punt paprika/chili-ketjapsaus,"meat, spicy"
+Baylings,Leeuwarden,Dinner,Warm,Toscaanse tomatensoep,8.5,pesto,
+Baylings,Leeuwarden,Dinner,Warm,Thaise kippenbouillon,8.5,noodles/taugé/peper/koriander/kip,"meat, spicy"
+Baylings,Leeuwarden,Dinner,Warm,Mosterd soep,8.5,gerookte zalm,fish
+Baylings,Leeuwarden,Dinner,Warm,Gamba's,13.5,knoflook/peterselie/bosui/rode peper/brood,"fish, spicy"
+Baylings,Leeuwarden,Dinner,Warm,Geitenkaas,12.75,appel/walnoot/rucola/gekarameliseerde uitjes/honing,vegetarian
+Baylings,Leeuwarden,Dinner,Warm,Albondigas,12.75,(gehaktballetjes bereid op Spaanse wijze) licht pittige tomatensaus/peterselie/bosui,"meat, spicy"
+Baylings,Leeuwarden,Dinner,Warm,Spicy chicken,12.75,geserveerd met parelcouscous,"meat, spicy"
+Baylings,Leeuwarden,Dinner,Warm,Starter proeverij (2p),21.95,proeverij van diverse warme en koude voorgerechten,
+Baylings,Leeuwarden,Dinner,Main,Gebakken lamshaas,33.5,rode wijnjus/seizoensgroenten,meat
+Baylings,Leeuwarden,Dinner,Main,Baylings Biefstuk,29.95,diamanthaas/truffeljus/seizoensgroenten,meat
+Baylings,Leeuwarden,Dinner,Main,Pollo formaggio,25.95,Ovengebakken kipfilet/gesmolten kaas/knoflook/oregano,meat
+Baylings,Leeuwarden,Dinner,Main,Bayling mixed grill,35.45,steak/burger/kipfilet/lamshaas/gebakken garnituur/aioli,meat
+Baylings,Leeuwarden,Dinner,Main,Kalfs Entrecote,29.75,kruidenboter,
+Baylings,Leeuwarden,Dinner,Main,Oosterse Kebab,33.5,gegrilde lamshaas aan de spies/gemarineerd op traditionele wijze/huisgemaakte couscous,meat
+Baylings,Leeuwarden,Dinner,Main,Ossenhaas,39.95,Tournedos 200gr/aardappel rösti/gemengde groenten/jus,meat
+Baylings,Leeuwarden,Dinner,Main,Gnocchi Kip,24.95,kip/spinazie/champignon/zongedroogde tomaat/walnoot/Parmezaanse kaas/room,meat
+Baylings,Leeuwarden,Dinner,Main,Verse zalmfilet,29.95,dilleroomsaus,fish
+Baylings,Leeuwarden,Dinner,Main,Zeebaars,27.95,seizoensgarnituur/jus van Hollandse garnalen,fish
+Baylings,Leeuwarden,Dinner,Main,Catch of the day,25.95,vraag naar de vangst van vandaag,
+Baylings,Leeuwarden,Dinner,Main,Gnocchi,22.95,spinazie/champignon/zongedroogde tomaat/walnoot/Parmezaanse kaas/room,meat
+Baylings,Leeuwarden,Dinner,Main,Börek,21.5,gevulde filodeeg met groenten/feta,vegetarian
+Baylings,Leeuwarden,Dinner,Main,Portobello,21.95,geitenkaas/rucola/walnoten/port siroop,vegetarian
+Baylings,Leeuwarden,Dinner,Kleine Gasten,Tomatensoep,4.5,tomaten en basilicum,
+Baylings,Leeuwarden,Dinner,Kleine Gasten,Pannenkoeken of poffertjes,7.0,boter/poedersuiker/stroop,
+Baylings,Leeuwarden,Dinner,Kleine Gasten,Pizza margarita,7.5,tomatensaus en kaas,vegetarian
+Baylings,Leeuwarden,Dinner,Kleine Gasten,Friet en Snack,7.5,"keuze uit een kroket, frikandel of kipnuggets",meat
+Baylings,Leeuwarden,Dinner,Kleine Gasten,Kinder ijsje,4.5,vanille ijs/discodip/slagroom,fish
+Baylings,Leeuwarden,Dinner,Dessert,Cheescake,9.25,sinaasappel coulis/slagroom,vegetarian
+Baylings,Leeuwarden,Dinner,Dessert,Créme brûlée,8.95,wisselende smaken/vanille ijs,
+Baylings,Leeuwarden,Dinner,Dessert,Hangop,8.95,rood fruit/vanille/crumble,
+Baylings,Leeuwarden,Dinner,Dessert,Chocolade moulleaux,8.95,vanille ijs/slagroom,vegetarian
+Baylings,Leeuwarden,Dinner,Dessert,Sorbertijs,8.95,3 soorten sorbetijs/op klassieke wijze geserveerd/slagroom,vegetarian
+Baylings,Leeuwarden,Dinner,Dessert,Tarte Tatin van appel,8.95,omgekeerd gebakken appeltaartje/karamel/boerenroom ijs,vegetarian
+Baylings,Leeuwarden,Dinner,Dessert,Dessert proeverij (2p),21.95,proeverij van diverse nagerechten,
+De Dikke van Dale,Leeuwarden,Lunch,Soup,Mosterdsoep geserveerd met Friese droge worst en bosui,7.25,,meat
+De Dikke van Dale,Leeuwarden,Lunch,Soup,Pompoensoep,7.25,"geserveerd met crème fraîche, pompoenpitten en bosui",vegetarian
+De Dikke van Dale,Leeuwarden,Lunch,Salads,Salade beef teriyaki,17.5,"sla, biefstukpuntjes, rode ui, peultjes, cherrytomaat, sesamzaadjes en teriyakisaus",meat
+De Dikke van Dale,Leeuwarden,Lunch,Salads,Caesar salade,17.25,"little gem, chicken dippers, Parmezaanse kaas, gekookt ei, croutons, bacon en caesardressing",meat
+De Dikke van Dale,Leeuwarden,Lunch,Cold Sandwiches,Broodje rundercarpaccio,15.25,"sla, basilicummayonaise, zongedroogde tomaat, Parmezaanse kaas en krokante tuinbonen",meat
+De Dikke van Dale,Leeuwarden,Lunch,Cold Sandwiches,Broodje zalm,16.75,"sla, gerookte zalm, rode ui, zeekraal, komkommer en wasabimayonaise","fish, spicy"
+De Dikke van Dale,Leeuwarden,Lunch,Cold Sandwiches,Broodje gezond,15.5,"sla, tomaat, komkommer, ham, kaas, gekookt ei, radijs, trio van kiemen en kerriemayonaise",meat
+De Dikke van Dale,Leeuwarden,Lunch,Cold Sandwiches,Clubsandwich,14.75,"sla, tomaat, bacon, kipfilet, kaas, kerriemayonaise, gebakken ei met friet en mayonaise",meat
+De Dikke van Dale,Leeuwarden,Lunch,Lunch Specials,"Twaalfuurtje zalm – kopje soep naar keuze, broodje met een rundvleeskroket en een broodje gerookte zalm met wasabimayonaise",17.75,,"fish, meat, spicy"
+De Dikke van Dale,Leeuwarden,Lunch,Lunch Specials,"Twaalfuurtje carpaccio – kopje soep naar keuze, broodje met een rundvleeskroket en een broodje carpaccio met basilicummayonaise en Parmezaanse kaas",17.0,,meat
+De Dikke van Dale,Leeuwarden,Lunch,Hot Sandwiches,De Dikke Burger,16.5,"little gem, tomaat, rode ui, augurk, bacon, ei, cheddar, BBQ-saus op een brioche bol",meat
+De Dikke van Dale,Leeuwarden,Lunch,Hot Sandwiches,Holtkamp kroketten,11.75,geserveerd op wit landbrood met mosterd,meat
+De Dikke van Dale,Leeuwarden,Lunch,Hot Sandwiches,Broodje pastrami,14.75,"pastrami, Amsterdamse uitjes, coleslaw en vitellosaus",meat
+De Dikke van Dale,Leeuwarden,Lunch,Hot Sandwiches,Japanse kip slider,13.5,"kip karaage, coleslaw, rode ui, rode peper, bosui, taugé, gedroogde uitjes en srirachasaus","meat, spicy"
+De Dikke van Dale,Leeuwarden,Lunch,Hot Sandwiches,Broodje Provençaal,12.75,"rode ui, prei, champignons, Provençaalse kruiden en geitenkaas",meat
+De Dikke van Dale,Leeuwarden,Lunch,Hot Sandwiches,Broodje gegrilde halloumi & pompoen,13.25,"sla, halloumi, pompoen en pesto, geserveerd op een flatbread",vegetarian
+De Dikke van Dale,Leeuwarden,Lunch,Hot Sandwiches,Broodje Dikke van Dale,14.75,"sla, biefstukpuntjes, sesamzaadjes, teriyakisaus, rode ui en tomaat",meat
+De Dikke van Dale,Leeuwarden,Lunch,Egg Dishes,Uitsmijter met ham en/of kaas,12.75,,meat
+De Dikke van Dale,Leeuwarden,Lunch,Egg Dishes,"Boerenomelet – gebakken groenten, kaas en spek",13.75,,meat
+De Dikke van Dale,Leeuwarden,Lunch,Egg Dishes,Uitsmijter zalm,15.75,,fish
+De Dikke van Dale,Leeuwarden,Lunch,Plates,"Saté van kippendijen – satésaus, cassave en atjar",22.0,,meat
+De Dikke van Dale,Leeuwarden,Lunch,Plates,Fish and chips – in beslag gefrituurde kabeljauwfilet geserveerd met ravigottesaus,22.0,,fish
+De Dikke van Dale,Leeuwarden,Dinner,Soup,Mosterdsoep -,7.25,geserveerd met Friese droge worst en bosui,meat
+De Dikke van Dale,Leeuwarden,Dinner,Soup,Pompoensoep,7.25,"geserveerd met crème fraîche, pompoenpitten en bosui",vegetarian
+De Dikke van Dale,Leeuwarden,Dinner,Salads,Caesar salade,17.25,"little gem, chicken dippers, Parmezaanse kaas, gekookt ei, croutons, bacon en caesardressing",meat
+De Dikke van Dale,Leeuwarden,Dinner,Salads,Salade beef teriyaki,17.5,"sla, biefstukpuntjes, rode ui, peultjes, cherrytomaat, sesamzaadjes en teriyakisaus",meat
+De Dikke van Dale,Leeuwarden,Dinner,Starters,Broodplankje,7.25,met diverse smeersels,
+De Dikke van Dale,Leeuwarden,Dinner,Starters,Rundercarpaccio,14.75,"basilicummayonaise, zongedroogde tomaat, Parmezaanse kaas en krokante tuinbonen",meat
+De Dikke van Dale,Leeuwarden,Dinner,Starters,Surf & turf,15.75,"steak tartaar, brioche krokant, kapperappeltje, dooier van een kwartelei, garnalenkroketje en vadouvanmayonaise","fish, meat"
+De Dikke van Dale,Leeuwarden,Dinner,Starters,Tataki van zalm,14.5,"geserveerd met zeewierkaviaar, zeebanaan, nori krokant, radijs, komkommer en wasabimayonaise","fish, spicy"
+De Dikke van Dale,Leeuwarden,Dinner,Starters,Gebakken gamba,13.75,"geserveerd in bisque met ‘nduya, courgettini en brood",fish
+De Dikke van Dale,Leeuwarden,Dinner,Starters,Tarte tatin,12.25,"rode biet, geitenkaas, balsamico en babyspinazie",vegetarian
+De Dikke van Dale,Leeuwarden,Dinner,Sides,Rauwkostsalade,4.5,"met pesto, sla, komkommer, tomaat, olijven en feta",vegetarian
+De Dikke van Dale,Leeuwarden,Dinner,Sides,Veggies,4.5,gegrilde groenten van de broiler,vegetarian
+De Dikke van Dale,Leeuwarden,Dinner,Sides,Friet Parmezaan,6.75,friet met Parmezaanse kaas en truffelmayonaise,vegetarian
+De Dikke van Dale,Leeuwarden,Dinner,Sides,Zoete aardappelfriet –,6.5,geserveerd met truffelmayonaise,
+De Dikke van Dale,Leeuwarden,Dinner,Main,De Dikke burger,19.5,"little gem, tomaat, rode ui, augurk, bacon, ei, cheddar, BBQ-saus op een brioche bol",meat
+De Dikke van Dale,Leeuwarden,Dinner,Main,Saté van kippendijen,22.0,"met satésaus, cassave, atjar en gebakken uitjes",meat
+De Dikke van Dale,Leeuwarden,Dinner,Main,Spareribs,28.0,gemarineerd met een lak van smokey chili/BBQ-saus geserveerd met aioli,"meat, spicy"
+De Dikke van Dale,Leeuwarden,Dinner,Main,Varkenshaas,24.5,"met gebakken champignons, bacon, ui en champignonsaus",meat
+De Dikke van Dale,Leeuwarden,Dinner,Main,Stoofpot,25.5,"in bruin bier gestoofd rundvlees, geserveerd met aardappelpuree en groenten",meat
+De Dikke van Dale,Leeuwarden,Dinner,Main,Eendenborst,36.5,geserveerd met sinaasappeljus en groenten,meat
+De Dikke van Dale,Leeuwarden,Dinner,Main,Black Angus biefstuk,28.5,biefstuk afkomstig van een Black Angus rund,meat
+De Dikke van Dale,Leeuwarden,Dinner,Main,Varkensribroast,24.5,geserveerd met groenten en saus naar keuze,meat
+De Dikke van Dale,Leeuwarden,Dinner,Main,Fish and Chips,22.0,in beslag gefrituurde kabeljauwfilet met ravigottesaus,fish
+De Dikke van Dale,Leeuwarden,Dinner,Main,Zalmfilet,26.0,"op de huid gebakken zalm met zeekraal, groenten en hollandaisesaus",fish
+De Dikke van Dale,Leeuwarden,Dinner,Main,Zeebaars,24.5,geserveerd met antiboise en groenten,fish
+De Dikke van Dale,Leeuwarden,Dinner,Main,Stickey tempeh noodles,17.5,"tempeh, haricots verts, edamame, basilicum en hoisinsaus",
+De Dikke van Dale,Leeuwarden,Dinner,Main,Knolselderijsteak,18.0,"knolselderij gemarineerd in miso met pesto, gnocchi en groenten",meat
+De Dikke van Dale,Leeuwarden,Dinner,Kids,Pannenkoek –,7.75,geserveerd met stroop en poedersuiker,
+De Dikke van Dale,Leeuwarden,Dinner,Kids,Kipspies,9.95,met appelmoes,meat
+De Dikke van Dale,Leeuwarden,Dinner,Kids,Friet –,7.75,met frikandel of kroket,meat
+De Dikke van Dale,Leeuwarden,Dinner,Kids,Kinderijsje,5.0,"met twee soorten ijs, fruit en spikkels",
+De Dikke van Dale,Leeuwarden,Dinner,Dessert,Koffie met friandises,8.75,,
+De Dikke van Dale,Leeuwarden,Dinner,Dessert,Salty caramel,11.5,karamelroomrijs en crumble van gezouten pinda’s,vegetarian
+De Dikke van Dale,Leeuwarden,Dinner,Dessert,Tartelette met stoofpeer,8.75,geserveerd met perenijs,
+De Dikke van Dale,Leeuwarden,Dinner,Dessert,MonChou,9.75,met kersen en yoghurtbosvruchtenijs,vegetarian
