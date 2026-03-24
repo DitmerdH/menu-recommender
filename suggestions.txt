@@ -1,10 +1,10 @@
-Concrete issues that have to be solved:
+Concrete suggestions that have to be solved to make the menu recommender better:
 
-- All drinks are in the Salads category
+- All drinks are in the Salads category FIXED
 - 'Kinderijsje' is fish according to the data
 - There are no dessert dishes, might be because there aren't any, but something to look into.
 
-Potential improvements:
+Optional improvements:
 
 - Right now it is a price oriented filtering, maybe we could change it/add a scoring mechanism
 that takes into account other factors as well?

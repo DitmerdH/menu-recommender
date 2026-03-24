@@ -20,26 +20,26 @@ Jack and Jacky's,Leeuwarden,Lunch,Salads,SALMON,16.9,"Gerookte zalm, furikake, a
 Jack and Jacky's,Leeuwarden,Lunch,Salads,BURRATA,16.9,"Burrata, komkommer, vijgen, gerookte amandelen, tomaat, balsamico, huisgemaakte groene pesto & pistachecrumble",vegetarian
 Jack and Jacky's,Leeuwarden,Lunch,Salads,CARPACCIO,15.3,"Rundercarpaccio, pesto, tomaat, komkommer, Parmezaanse kaas, crispy tuinbonen, zongedroogde tomaat & truffelmayo",meat
 Jack and Jacky's,Leeuwarden,Lunch,Salads,EXTRA'S,2.0,Glutenvrij brood,
-Jack and Jacky's,Leeuwarden,Lunch,Salads,KOFFIE,3.3,,
-Jack and Jacky's,Leeuwarden,Lunch,Salads,AMERICANO,3.4,Iced / hot,
-Jack and Jacky's,Leeuwarden,Lunch,Salads,ESPRESSO,3.3,,
-Jack and Jacky's,Leeuwarden,Lunch,Salads,DOUBLE ESPRESSO,3.8,,
-Jack and Jacky's,Leeuwarden,Lunch,Salads,ESPRESSO MACCHIATO,3.5,,
-Jack and Jacky's,Leeuwarden,Lunch,Salads,CAPPUCCINO,3.8,,
-Jack and Jacky's,Leeuwarden,Lunch,Salads,CORTADO,3.5,,
-Jack and Jacky's,Leeuwarden,Lunch,Salads,FLAT WHITE,4.3,,
-Jack and Jacky's,Leeuwarden,Lunch,Salads,LATTE MACCHIATO,4.1,Iced / hot,
-Jack and Jacky's,Leeuwarden,Lunch,Salads,MOCHA COFFEE,4.5,,
-Jack and Jacky's,Leeuwarden,Lunch,Salads,BABYCCINO,2.6,,
-Jack and Jacky's,Leeuwarden,Lunch,Salads,COFFEE SHAKE,6.4,"Espresso, vanille-sojadrink, ijsklontjes & banaan",
-Jack and Jacky's,Leeuwarden,Lunch,Salads,FRESH MINT,3.9,,
-Jack and Jacky's,Leeuwarden,Lunch,Salads,FRESH GINGER,3.9,,
-Jack and Jacky's,Leeuwarden,Lunch,Salads,CHAMOMILE LAVENDER,3.6,,meat
-Jack and Jacky's,Leeuwarden,Lunch,Salads,ROOIBOS ORANGE,3.6,,
-Jack and Jacky's,Leeuwarden,Lunch,Salads,PURE GREEN,3.6,,
-Jack and Jacky's,Leeuwarden,Lunch,Salads,SPICY LEMON,3.6,,spicy
-Jack and Jacky's,Leeuwarden,Lunch,Salads,CHAI LATTE,4.9,Iced / hot,
-Jack and Jacky's,Leeuwarden,Lunch,Salads,DIRTY CHAI LATTE,5.4,Iced / hot,
+Jack and Jacky's,Leeuwarden,Lunch,Drinks,KOFFIE,3.3,,
+Jack and Jacky's,Leeuwarden,Lunch,Drinks,AMERICANO,3.4,Iced / hot,
+Jack and Jacky's,Leeuwarden,Lunch,Drinks,ESPRESSO,3.3,,
+Jack and Jacky's,Leeuwarden,Lunch,Drinks,DOUBLE ESPRESSO,3.8,,
+Jack and Jacky's,Leeuwarden,Lunch,Drinks,ESPRESSO MACCHIATO,3.5,,
+Jack and Jacky's,Leeuwarden,Lunch,Drinks,CAPPUCCINO,3.8,,
+Jack and Jacky's,Leeuwarden,Lunch,Drinks,CORTADO,3.5,,
+Jack and Jacky's,Leeuwarden,Lunch,Drinks,FLAT WHITE,4.3,,
+Jack and Jacky's,Leeuwarden,Lunch,Drinks,LATTE MACCHIATO,4.1,Iced / hot,
+Jack and Jacky's,Leeuwarden,Lunch,Drinks,MOCHA COFFEE,4.5,,
+Jack and Jacky's,Leeuwarden,Lunch,Drinks,BABYCCINO,2.6,,
+Jack and Jacky's,Leeuwarden,Lunch,Drinks,COFFEE SHAKE,6.4,"Espresso, vanille-sojadrink, ijsklontjes & banaan",
+Jack and Jacky's,Leeuwarden,Lunch,Drinks,FRESH MINT,3.9,,
+Jack and Jacky's,Leeuwarden,Lunch,Drinks,FRESH GINGER,3.9,,
+Jack and Jacky's,Leeuwarden,Lunch,Drinks,CHAMOMILE LAVENDER,3.6,,meat
+Jack and Jacky's,Leeuwarden,Lunch,Drinks,ROOIBOS ORANGE,3.6,,
+Jack and Jacky's,Leeuwarden,Lunch,Drinks,PURE GREEN,3.6,,
+Jack and Jacky's,Leeuwarden,Lunch,Drinks,SPICY LEMON,3.6,,spicy
+Jack and Jacky's,Leeuwarden,Lunch,Drinks,CHAI LATTE,4.9,Iced / hot,
+Jack and Jacky's,Leeuwarden,Lunch,Drinks,DIRTY CHAI LATTE,5.4,Iced / hot,
 Jack and Jacky's,Leeuwarden,Lunch,Bakery,BANANABREAD,4.8,Van de grill met verse banaan,
 Jack and Jacky's,Leeuwarden,Lunch,Bakery,CARROTCAKE,5.4,Met vanille frosting,
 Jack and Jacky's,Leeuwarden,Lunch,Bakery,CHOCOLATE CAKE,5.4,Met drie soorten chocolade,
@@ -228,7 +228,7 @@ De Dikke van Dale,Leeuwarden,Dinner,Kids,Pannenkoek –,7.75,geserveerd met stro
 De Dikke van Dale,Leeuwarden,Dinner,Kids,Kipspies,9.95,met appelmoes,meat
 De Dikke van Dale,Leeuwarden,Dinner,Kids,Friet –,7.75,met frikandel of kroket,meat
 De Dikke van Dale,Leeuwarden,Dinner,Kids,Kinderijsje,5.0,"met twee soorten ijs, fruit en spikkels",
-De Dikke van Dale,Leeuwarden,Dinner,Dessert,Koffie met friandises,8.75,,
+De Dikke van Dale,Leeuwarden,Dinner,Drinks,Koffie met friandises,8.75,,
 De Dikke van Dale,Leeuwarden,Dinner,Dessert,Salty caramel,11.5,karamelroomrijs en crumble van gezouten pinda’s,vegetarian
 De Dikke van Dale,Leeuwarden,Dinner,Dessert,Tartelette met stoofpeer,8.75,geserveerd met perenijs,
 De Dikke van Dale,Leeuwarden,Dinner,Dessert,MonChou,9.75,met kersen en yoghurtbosvruchtenijs,vegetarian
@@ -418,10 +418,10 @@ Brasserie Flair,Groningen,Dinner,Desserts En Digestieven,Baklava Cheesecake,9.5,
 Brasserie Flair,Groningen,Dinner,Desserts En Digestieven,Scroppino,9.5,"Gemaakt van huisgemaakt Limo cello-ijs, limo cello en cava.",
 Brasserie Flair,Groningen,Dinner,Desserts En Digestieven,Dronken Sultan,9.5,"Vanille ijs overgoten met boerenjongens, advocaat en slagroom.",vegetarian
 Brasserie Flair,Groningen,Dinner,Desserts En Digestieven,Affogato Caramel,9.5,Espresso koffie met een bolletje huisgemaakte karamel ijs en een shotje Amaretto.,
-Brasserie Flair,Groningen,Dinner,Desserts En Digestieven,Espresso Martini,9.5,Espresso koffie met shot wodka en Koffielikeur.,
+Brasserie Flair,Groningen,Dinner,Drinks,Espresso Martini,9.5,Espresso koffie met shot wodka en Koffielikeur.,
 Brasserie Flair,Groningen,Dinner,Desserts En Digestieven,Kaasplankje,12.5,"4 verschillende en wisselende harde- en zachte kazen met chutney, vijgenbrood.",vegetarian
 Brasserie Flair,Groningen,Dinner,Desserts En Digestieven,Special Coffees,8.5,Irish: met Whisky,
-Brasserie Flair,Groningen,Dinner,Desserts En Digestieven,"Dessert wijn € 5,00 Whiskey",6.0,,
+Brasserie Flair,Groningen,Dinner,Drinks,"Dessert wijn € 5,00 Whiskey",6.0,,
 Brasserie Flair,Groningen,Dinner,Desserts En Digestieven,"Rode Port € 5,00 Tia Maria",5.0,,
 Brasserie Flair,Groningen,Dinner,Desserts En Digestieven,"Cointreau € 5,00 Baileys",5.0,,
 Brasserie Flair,Groningen,Dinner,Desserts En Digestieven,"Limoncello € 4,25 Cognac",6.0,,
@@ -466,11 +466,11 @@ Javaans Eetcafe Groningen,Groningen,Dinner,Main,VEGETARISCHE SCHOTEL,16.5,Tahu k
 Javaans Eetcafe Groningen,Groningen,Dinner,Dessert,KELAPAH MUDAH,7.5,Geschaafde jonge kokos met romige kokosmelk en rozenblaadjes siroop,
 Javaans Eetcafe Groningen,Groningen,Dinner,Dessert,PISANG GORENG,7.5,1 stukje gebakken banaan met 1 bol vanille ijs,
 Javaans Eetcafe Groningen,Groningen,Dinner,Dessert,PORTIE SPEKKOEK,7.5,Pandan en kruiden spekkoek 5 dunne plakjes die smelten op je tong zo heerlijk!,meat
-Javaans Eetcafe Groningen,Groningen,Dinner,Dessertkoffie,IRISH COFFEE,9.5,"Koffie met Irish whiskey, suiker en slagroom",vegetarian
-Javaans Eetcafe Groningen,Groningen,Dinner,Dessertkoffie,FRENCH COFFEE,9.5,Koffie met Grand Marnier en slagroom,vegetarian
-Javaans Eetcafe Groningen,Groningen,Dinner,Dessertkoffie,SPANISH COFFEE,9.5,Koffie met Tia Maria en slagroom,vegetarian
-Javaans Eetcafe Groningen,Groningen,Dinner,Dessertkoffie,DISARONNO COFFEE,9.5,Koffie met Amaretto en slagroom,vegetarian
-Javaans Eetcafe Groningen,Groningen,Dinner,Dessertkoffie,GRUNNINGER COFFEE,9.5,Koffie met Beerenburger en slagroom,meat
+Javaans Eetcafe Groningen,Groningen,Dinner,Drinks,IRISH COFFEE,9.5,"Koffie met Irish whiskey, suiker en slagroom",vegetarian
+Javaans Eetcafe Groningen,Groningen,Dinner,Drinks,FRENCH COFFEE,9.5,Koffie met Grand Marnier en slagroom,vegetarian
+Javaans Eetcafe Groningen,Groningen,Dinner,Drinks,SPANISH COFFEE,9.5,Koffie met Tia Maria en slagroom,vegetarian
+Javaans Eetcafe Groningen,Groningen,Dinner,Drinks,DISARONNO COFFEE,9.5,Koffie met Amaretto en slagroom,vegetarian
+Javaans Eetcafe Groningen,Groningen,Dinner,Drinks,GRUNNINGER COFFEE,9.5,Koffie met Beerenburger en slagroom,meat
 Javaans Eetcafe Groningen,Groningen,Dinner,De Nagerechten,GRAND DESSERT,13.5,Een proeverij van diverse Indonesische gerechtjes (minimaal 2 personen),
 Javaans Eetcafe Groningen,Groningen,Dinner,De Nagerechten,SPEKKOEK,7.5,Indonesische speculaascake opgebouwd uit verschillende laagjes,meat
 Javaans Eetcafe Groningen,Groningen,Dinner,De Nagerechten,IJSPALET,8.5,Verschillende soorten ijs met spekkoek en slagroom,meat
@@ -478,28 +478,28 @@ Javaans Eetcafe Groningen,Groningen,Dinner,De Nagerechten,KWEE DADAR,8.5,Een war
 Javaans Eetcafe Groningen,Groningen,Dinner,De Nagerechten,KELEPON,7.75,‘Indonesische bonbons’ gemaakt van pandandeeg en gevuld met gula djawa en gegarneerd met geraspte kokos,
 Javaans Eetcafe Groningen,Groningen,Dinner,De Nagerechten,KLEPAH MUDAH,6.75,"Drankje met jonge kokos bevroren in kokoswater, gecrunched en geserveerd met rozensiroop",
 Javaans Eetcafe Groningen,Groningen,Dinner,De Nagerechten,PISANG GORENG,8.5,Gebakken banaan met ijs en gula djawa met een toefje slagroom,vegetarian
-Mahalo,Groningen,Lunch,"Kies Uit: Havermelk, Sojamelk, Amandelmelk, Kokosmelk Of Hazelnootmelk",Americano,3.0,,
-Mahalo,Groningen,Lunch,"Kies Uit: Havermelk, Sojamelk, Amandelmelk, Kokosmelk Of Hazelnootmelk",Espresso,2.5,,
-Mahalo,Groningen,Lunch,"Kies Uit: Havermelk, Sojamelk, Amandelmelk, Kokosmelk Of Hazelnootmelk",Cortado,3.5,,
-Mahalo,Groningen,Lunch,"Kies Uit: Havermelk, Sojamelk, Amandelmelk, Kokosmelk Of Hazelnootmelk",Cappuccino,4.0,,
-Mahalo,Groningen,Lunch,"Kies Uit: Havermelk, Sojamelk, Amandelmelk, Kokosmelk Of Hazelnootmelk",Latte Macchiato,4.5,,
-Mahalo,Groningen,Lunch,"Kies Uit: Havermelk, Sojamelk, Amandelmelk, Kokosmelk Of Hazelnootmelk",Chai Latte,4.5,,
-Mahalo,Groningen,Lunch,"Kies Uit: Havermelk, Sojamelk, Amandelmelk, Kokosmelk Of Hazelnootmelk",Matcha Latte,5.0,,
-Mahalo,Groningen,Lunch,"Kies Uit: Havermelk, Sojamelk, Amandelmelk, Kokosmelk Of Hazelnootmelk",Dirty Chai,5.0,,
+Mahalo,Groningen,Lunch,Drinks,Americano,3.0,,
+Mahalo,Groningen,Lunch,Drinks,Espresso,2.5,,
+Mahalo,Groningen,Lunch,Drinks,Cortado,3.5,,
+Mahalo,Groningen,Lunch,Drinks,Cappuccino,4.0,,
+Mahalo,Groningen,Lunch,Drinks,Latte Macchiato,4.5,,
+Mahalo,Groningen,Lunch,Drinks,Chai Latte,4.5,,
+Mahalo,Groningen,Lunch,Drinks,Matcha Latte,5.0,,
+Mahalo,Groningen,Lunch,Drinks,Dirty Chai,5.0,,
 Mahalo,Groningen,Lunch,"Kies Uit: Havermelk, Sojamelk, Amandelmelk, Kokosmelk Of Hazelnootmelk",Hot Choc,4.0,,
 Mahalo,Groningen,Lunch,"Kies Uit: Havermelk, Sojamelk, Amandelmelk, Kokosmelk Of Hazelnootmelk",Golden Milk,5.0,"Huisgemaakt met verse kurkuma, gember, Chai kruiden, kokos- en amandelmelk",
-Mahalo,Groningen,Lunch,"Kies Uit: Havermelk, Sojamelk, Amandelmelk, Kokosmelk Of Hazelnootmelk",Verse thee,4.0,Keuze uit: munt | gember| citroen | sinaasappel | kaneel,
-Mahalo,Groningen,Lunch,"Kies Uit: Havermelk, Sojamelk, Amandelmelk, Kokosmelk Of Hazelnootmelk",Thee,3.5,Keuze uit: earl grey | huisgemaakte chai | hibiscus fruitmelange | sencha mandarijn en citroengras | rooibos sinaasappel eucalyptus | sisline | ayurvedische blend | wildpluk thee,
+Mahalo,Groningen,Lunch,Drinks,Verse thee,4.0,Keuze uit: munt | gember| citroen | sinaasappel | kaneel,
+Mahalo,Groningen,Lunch,Drinks,Thee,3.5,Keuze uit: earl grey | huisgemaakte chai | hibiscus fruitmelange | sencha mandarijn en citroengras | rooibos sinaasappel eucalyptus | sisline | ayurvedische blend | wildpluk thee,
 Mahalo,Groningen,Lunch,"Kies Uit: Havermelk, Sojamelk, Amandelmelk, Kokosmelk Of Hazelnootmelk",Maté,4.0,"Argentijnse groene thee, op traditionele wijze geserveerd",
-Mahalo,Groningen,Lunch,Koude Dranken,Iced Latte,5.0,,
-Mahalo,Groningen,Lunch,Koude Dranken,Huisgemaakte ijsthee,4.0,Kies uit: Thyme & Lemon / Ginger & Citrus,
-Mahalo,Groningen,Lunch,Koude Dranken,Huisgemaakte gemberbier,4.0,,
-Mahalo,Groningen,Lunch,Koude Dranken,“Altijd lente”botanische kombucha van Wilderland,4.5,,
-Mahalo,Groningen,Lunch,Smoothies,Best groen,6.5,"Banaan, spinazie, komkommer, munt en havermelk",
-Mahalo,Groningen,Lunch,Smoothies,Fris en fruitig,6.5,"Banaan, bosbessen, framboos, aardbei, dadels, munt en havermelk",vegetarian
-Mahalo,Groningen,Lunch,Smoothies,Pindadel,6.5,"Dadels, banaan, kokos cream, kokosolie, kaneel, pindakaas, zout",vegetarian
-Mahalo,Groningen,Lunch,Smoothies,Tripje naar de tropen,6.5,"Mango, ananas, banaan, kokosmelk, blue spirulina",
-Mahalo,Groningen,Lunch,Smoothies,Een dosis chocolade,6.5,"Banaan, cacao, cacaoboter, kokoscream, dadels en havermelk",
+Mahalo,Groningen,Lunch,Drinks,Iced Latte,5.0,,
+Mahalo,Groningen,Lunch,Drinks,Huisgemaakte ijsthee,4.0,Kies uit: Thyme & Lemon / Ginger & Citrus,
+Mahalo,Groningen,Lunch,Drinks,Huisgemaakte gemberbier,4.0,,
+Mahalo,Groningen,Lunch,Drinks,“Altijd lente”botanische kombucha van Wilderland,4.5,,
+Mahalo,Groningen,Lunch,Drinks,Best groen,6.5,"Banaan, spinazie, komkommer, munt en havermelk",
+Mahalo,Groningen,Lunch,Drinks,Fris en fruitig,6.5,"Banaan, bosbessen, framboos, aardbei, dadels, munt en havermelk",vegetarian
+Mahalo,Groningen,Lunch,Drinks,Pindadel,6.5,"Dadels, banaan, kokos cream, kokosolie, kaneel, pindakaas, zout",vegetarian
+Mahalo,Groningen,Lunch,Drinks,Tripje naar de tropen,6.5,"Mango, ananas, banaan, kokosmelk, blue spirulina",
+Mahalo,Groningen,Lunch,Drinks,Een dosis chocolade,6.5,"Banaan, cacao, cacaoboter, kokoscream, dadels en havermelk",
 Mahalo,Groningen,Lunch,Zoet,Chocoladetaart,4.5,,
 Mahalo,Groningen,Lunch,Zoet,Lavendelcake,3.5,,
 Mahalo,Groningen,Lunch,Zoet,Warm bananenbrood met pindakaas en banaan,5.0,"Glutenvrij, ger. suikers vrij",vegetarian
